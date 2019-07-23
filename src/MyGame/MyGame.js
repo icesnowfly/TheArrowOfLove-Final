@@ -15,7 +15,7 @@ function MyGame(levelID) {
     //Load Texture
     this.kTexture = "assets/kTexture.png";
 //    this.kWood = "assets/RigidShape/Wood.png";
-    this.kWood = "assets/brick.png";
+    this.kWood = "assets/Brick.png";
     this.kRole = "assets/Role.png";
     this.kWin = "assets/WinPage.png";
     this.kLose = "assets/LosePage.png";
